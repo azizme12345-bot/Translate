@@ -1,0 +1,7 @@
+name = "language-translator"
+compatibility_date = "2024-09-23"
+pages_build_output_dir = "dist"
+
+# Set GEMINI_API_KEY in Cloudflare Pages Dashboard:
+# Go to Settings > Environment Variables > Add Variable:
+# Variable name: GEMINI_API_KEY

@@ -1,0 +1,6 @@
+{
+  "name": "Language Translator",
+  "description": "Mobile-responsive Language Translator powered by Google Gemini API with speech, copy, and swap.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
